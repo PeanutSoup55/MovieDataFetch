@@ -1,5 +1,5 @@
 import React from 'react'
-
+import '../css/Favourites.css'
 function Favourites(){
   return (
     <div>
@@ -8,3 +8,4 @@ function Favourites(){
     </div>
   )
 }
+export default Favourites;
