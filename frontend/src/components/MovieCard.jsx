@@ -6,7 +6,6 @@ function MovieCard({movie}){
         alert("clicked")
     }
 
-
     return (
         <>
         <div className="movie-card">
@@ -26,4 +25,5 @@ function MovieCard({movie}){
         </>
     );
 }
+
 export default MovieCard;
